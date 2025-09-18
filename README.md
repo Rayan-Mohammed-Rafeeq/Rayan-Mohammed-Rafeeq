@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <img src="URL_TO_YOUR_BANNER_IMAGE.png" alt="Welcome to my profile!"/>
+</p>
