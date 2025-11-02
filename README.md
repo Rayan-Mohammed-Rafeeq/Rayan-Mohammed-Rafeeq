@@ -50,17 +50,15 @@
 ---
 
 <div align="center">
-  
   <table style="width: 100%; border: none;">
     <tr>
-      <td style="width: 40%; vertical-align: top; border: none; text-align: left; padding-right: 20px;">
+  <td style="width: 35%; vertical-align: top; border: none; padding-right: 15px;">
         
-<h2 style="text-align: left;">
-          <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3lqbDRsaXg4ZTgwNjBoMGtvNXFzcHQyZHNzbHB6YnJtdmV4b3pjeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qNHyaJzOmLNwGWk7Zf/giphy.gif" width="90%" height="120px" alt="Tech Stack Icon">
-         
-</h2>
+   <p align="center">
+            <h2 style="margin-top: 0; margin-bottom: 10px;">Tech Stack</h2>
+   </p>
         
-  <p>
+   <p align="center">
           <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java badge" />
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python badge" />
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 badge" />
@@ -71,15 +69,15 @@
           <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git badge" />
           <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge" />
           <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React badge" />
-   </p>
+    </p>
 
   </td>
       
-  <td style="width: 60%; vertical-align: top; border: none; text-align: left; padding-left: 20px;">
+  <td style="width: 65%; vertical-align: top; border: none; padding-left: 15px;">
         
-  <h2 align="center">
-          <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWxqdnp5OTVmMTQ3aWY1NjRoMGRzajEydzcxaW16YXZoYTJpMGVueiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/F6asHdD3czgPYAB380/giphy.gif" width="70%"  height="80px" alt="Projects Icon">
-  </h2>
+  <p align="center" style="margin-top: 0; margin-bottom: 15px;">
+           <img src="[URL_TO_NEW_PROJECT_STICKER]" alt="NEW PROJECT IS COMING..." width="400"/>
+   </p>
 
   | Project | Description | Tech |
   | :--- | :--- | :--- |
@@ -87,11 +85,10 @@
   | 💰 **CashLite** | Simple Java Banking System | **Java** • MySQL |
   | ✅ **Flox** | To-Do List Android App | **Kotlin** • XML |
   | 🔒 **Cryptography Simulator** | RSA Encryption demo | **Python** |
-
-  </td>
+        
+   </td>
   </tr>
   </table>
-  
 </div>
 
 ---
