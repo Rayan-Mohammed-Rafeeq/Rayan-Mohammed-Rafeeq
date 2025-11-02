@@ -5,33 +5,50 @@
 </p>
 
 <!-- Glowing Name -->
-<h1 align="center">
+<!-- <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?duration=4000&pause=1000&center=true&vCenter=true&color=00FFE0&width=435&lines=✨+RAYAN+MOHAMMED+RAFEEQ+✨" alt="Glowing Name"/>
-</h1>
+</h1> -->
 
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="100%"/>
-</p>
 
----
-
-<h3 align="left">
-  <img src="https://cdn.pixabay.com/animation/2024/01/20/20/15/20-15-49-800_512.gif" width="24px" alt="Animated Lightning" width="100%"> About Me
+<!-- ABOUT ME SECTION -->
+<h3 align="center">
+  <img src="https://media.tenor.com/jxRkkcVsEhEAAAAj/frogverbal-giphy.gif" width="45%" height="200px">
 </h3>
 
-💡 “Turning AI ideas into real-world impact.”
+<h3 align="center">💡 “Turning AI ideas into real-world impact.”</h3>
 
----
+<p align="center">
+  🧠 <b>AI & ML Enthusiast</b> | 🎓 Student at <b>NMIT, Bangalore (2027)</b>
+</p>
 
-* 🧠 **AI & ML Enthusiast** | 🎓 Student at **NMIT, Bangalore (2027)**
-* 🛠️ Skilled in: **Python**, **Java**, **C++**, **Kotlin**, **Web Dev**
-* 🚀 Building: **Allied Edge Bot** – an AI assistant for students
-* 🏆 Hackathon Project: **MindEase** – AI-powered mental health app
-* 🎯 Goal: To become an innovative **AI/ML Engineer** creating tools that matter
+<div align="center">
+
+<table>
+  <tr>
+    <td align="left">⚙️ <b>Skilled in:</b></td>
+    <td>Python, Java, C++, Kotlin, Web Dev</td>
+  </tr>
+  <tr>
+    <td align="left">🚀 <b>Building:</b></td>
+    <td>Allied Edge Bot – an AI assistant for students</td>
+  </tr>
+  <tr>
+    <td align="left">🏆 <b>Hackathon Project:</b></td>
+    <td>MindEase – AI-powered mental health app</td>
+  </tr>
+  <tr>
+    <td align="left">🎯 <b>Goal:</b></td>
+    <td>To become an innovative AI/ML Engineer creating tools that matter</td>
+  </tr>
+</table>
+
+</div>
+
+
 
 ### 🧩 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,kotlin,html,css,js,mysql,git,github,react,flask&theme=light" />
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,mysql,git,github,react,&theme=light" />
 </p>
 
 ---
@@ -69,10 +86,12 @@
 </p>   
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rayan-mohammed-rafeeq-bb67262a1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/rayan-mohammed-rafeeq"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:rayanmohammedrafeeq555@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/Rayan-Mohammed-Rafeeq"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
+
+
 
 ---
 
