@@ -1,6 +1,6 @@
 <!-- Futuristic Header -->
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWUwbHF6NWNqZGdzMHhhbGd3bGIyengyd21sY204MWw4bnplbGpjNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" width="100%" height="300px">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWUwbHF6NWNqZGdzMHhhbGd3bGIyengyd21sY204MWw4bnplbGpjNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" width="80%" height="300px">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&color=00FFFF&center=true&vCenter=true&width=800&lines=👋+Hey+there!+I'm+Rayan+Mohammed+Rafeeq;AI+%26+ML+Engineer+in+the+Making;Creating+the+Future+with+Code+💫" alt="Typing SVG">
 </p>
 
@@ -64,8 +64,10 @@
 </p>
 
 ---
+<p align="center"> 
+   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bzdyNnFjcWE3bmhjeHdqeDZ0N2tqZDI4MXkzaWwyYWN4N3hseWF5eCZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXRz/XMCFRawW9LMPI2Ieb1/giphy.gif" width="50%" height="200px"/>
+</p>   
 
-### 🌈 Let’s Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/rayan-mohammed-rafeeq-bb67262a1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:rayanmohammedrafeeq555@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -77,7 +79,7 @@
 <!-- Animated Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
-<h3 align="center">⚙️ "Innovate. Build. Repeat." ⚙️</h3>
 
-<!-- Wave Footer -->
-
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExczM1ZDRramU2b2s4eHY0NTV3a3Mwb3Rod2h1MHZrbThsZ3o0bHJjZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q8apqDkk7CeUB3gfh4/giphy.gif" alt="Coding GIF" width="80%" height="200px"/>
+</p>
