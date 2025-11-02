@@ -1,6 +1,6 @@
 <!-- Futuristic Header -->
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHJ0N3Y0bXplMW0wMDNtdm92dG44cjY5b2cxM2d5ZzV4eTQ3YWdkOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="100%">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWUwbHF6NWNqZGdzMHhhbGd3bGIyengyd21sY204MWw4bnplbGpjNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" width="100%">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&color=00FFFF&center=true&vCenter=true&width=800&lines=👋+Hey+there!+I'm+Rayan+Mohammed+Rafeeq;AI+%26+ML+Engineer+in+the+Making;Creating+the+Future+with+Code+💫" alt="Typing SVG">
 </p>
 
@@ -15,16 +15,19 @@
 
 ---
 
-### ⚡ About Me
-> 💡 “Turning AI ideas into real-world impact.”
+<h3 align="left">
+  <img src="https://cdn.pixabay.com/animation/2024/01/20/20/15/20-15-49-800_512.gif" width="24px" alt="Animated Lightning" width="100%"> About Me
+</h3>
 
-🧠 AI & ML Enthusiast | 🎓 Student at **NMIT, Bangalore (2027)**  
-🛠️ Skilled in: **Python**, **Java**, **C++**, **Kotlin**, **Web Dev**  
-🚀 Building: **Allied Edge Bot** – an AI assistant for students  
-🏆 Hackathon Project: **MindEase** – AI-powered mental health app  
-🎯 Goal: To become an innovative **AI/ML Engineer** creating tools that matter
+💡 “Turning AI ideas into real-world impact.”
 
 ---
+
+* 🧠 **AI & ML Enthusiast** | 🎓 Student at **NMIT, Bangalore (2027)**
+* 🛠️ Skilled in: **Python**, **Java**, **C++**, **Kotlin**, **Web Dev**
+* 🚀 Building: **Allied Edge Bot** – an AI assistant for students
+* 🏆 Hackathon Project: **MindEase** – AI-powered mental health app
+* 🎯 Goal: To become an innovative **AI/ML Engineer** creating tools that matter
 
 ### 🧩 Tech Stack
 <p align="center">
