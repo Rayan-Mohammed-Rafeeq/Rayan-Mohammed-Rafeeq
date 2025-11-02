@@ -52,7 +52,7 @@
 <div align="center">
   <table style="width: 100%; border: none;">
     <tr>
-  <td style="width: 35%; vertical-align: top; border: none; padding-right: 15px;">
+  <td style="width: 50%; vertical-align: top; border: none; padding-right: 15px;">
         
    <p align="center">
            <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3lqbDRsaXg4ZTgwNjBoMGtvNXFzcHQyZHNzbHB6YnJtdmV4b3pjeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qNHyaJzOmLNwGWk7Zf/giphy.gif"  width="90%"/>
@@ -73,7 +73,7 @@
 
   </td>
       
-  <td style="width: 65%; vertical-align: top; border: none; padding-left: 15px;">
+  <td style="width: 50%; vertical-align: top; border: none; padding-left: 15px;">
         
   <p align="center" style="margin-top: 0; margin-bottom: 15px;">
            <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWxqdnp5OTVmMTQ3aWY1NjRoMGRzajEydzcxaW16YXZoYTJpMGVueiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/F6asHdD3czgPYAB380/giphy.gif" alt="NEW PROJECT IS COMING..." width="70%" height="90px"/>
