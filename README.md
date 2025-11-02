@@ -4,18 +4,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&color=00FFFF&center=true&vCenter=true&width=800&lines=👋+Hey+there!+I'm+Rayan+Mohammed+Rafeeq;AI+%26+ML+Engineer+in+the+Making;Creating+the+Future+with+Code+💫" alt="Typing SVG">
 </p>
 
-<!-- Glowing Name -->
-<!-- <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?duration=4000&pause=1000&center=true&vCenter=true&color=00FFE0&width=435&lines=✨+RAYAN+MOHAMMED+RAFEEQ+✨" alt="Glowing Name"/>
-</h1> -->
-
-
 <!-- ABOUT ME SECTION -->
 <h3 align="center">
-  <img src="https://media.tenor.com/jxRkkcVsEhEAAAAj/frogverbal-giphy.gif" width="45%" height="200px">
+  <img src="https://media.tenor.com/jxRkkcVsEhEAAAAj/frogverbal-giphy.gif" width="40%" height="200px">
 </h3>
 
-<h3 align="center">💡 “Turning AI ideas into real-world impact.”</h3>
+
 
 <p align="center">
   🧠 <b>AI & ML Enthusiast</b> | 🎓 Student at <b>NMIT, Bangalore (2027)</b>
@@ -55,7 +49,7 @@
   <td style="width: 50%; vertical-align: top; border: none; padding-right: 15px;">
         
    <p align="center">
-           <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3lqbDRsaXg4ZTgwNjBoMGtvNXFzcHQyZHNzbHB6YnJtdmV4b3pjeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qNHyaJzOmLNwGWk7Zf/giphy.gif"  width="90%"/>
+           <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3lqbDRsaXg4ZTgwNjBoMGtvNXFzcHQyZHNzbHB6YnJtdmV4b3pjeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qNHyaJzOmLNwGWk7Zf/giphy.gif"  width="40%" height="100px"/>
    </p>
         
    <p align="center">
@@ -73,20 +67,7 @@
 
   </td>
       
-  <td style="width: 50%; vertical-align: top; border: none; padding-left: 15px;">
-        
-  <p align="center" style="margin-top: 0; margin-bottom: 15px;">
-           <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWxqdnp5OTVmMTQ3aWY1NjRoMGRzajEydzcxaW16YXZoYTJpMGVueiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/F6asHdD3czgPYAB380/giphy.gif" alt="NEW PROJECT IS COMING..." width="70%" height="90px"/>
-   </p>
-
-  | Project | Description | Tech |
-  | :--- | :--- | :--- |
-  | 🗣️ **Allied Edge Bot** | AI assistant that generates notes, PDFs & slides | Python • **Flask** • **React** |
-  | 💰 **CashLite** | Simple Java Banking System | **Java** • MySQL |
-  | ✅ **Flox** | To-Do List Android App | **Kotlin** • XML |
-  | 🔒 **Cryptography Simulator** | RSA Encryption demo | **Python** |
-        
-   </td>
+ 
   </tr>
   </table>
 </div>
