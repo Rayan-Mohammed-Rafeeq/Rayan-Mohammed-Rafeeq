@@ -1,6 +1,6 @@
 <!-- Futuristic Header -->
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWUwbHF6NWNqZGdzMHhhbGd3bGIyengyd21sY204MWw4bnplbGpjNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" width="100%">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWUwbHF6NWNqZGdzMHhhbGd3bGIyengyd21sY204MWw4bnplbGpjNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" width="100%" height="300px">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&color=00FFFF&center=true&vCenter=true&width=800&lines=👋+Hey+there!+I'm+Rayan+Mohammed+Rafeeq;AI+%26+ML+Engineer+in+the+Making;Creating+the+Future+with+Code+💫" alt="Typing SVG">
 </p>
 
