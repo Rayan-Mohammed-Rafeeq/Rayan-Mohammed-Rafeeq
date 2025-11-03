@@ -82,12 +82,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
-### 🌌 Animated Quote of the Day
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=fadeIn" />
-</p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 <p align="center"> 
    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bzdyNnFjcWE3bmhjeHdqeDZ0N2tqZDI4MXkzaWwyYWN4N3hseWF5eCZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXRz/XMCFRawW9LMPI2Ieb1/giphy.gif" width="50%" height="200px"/>
 </p>   
