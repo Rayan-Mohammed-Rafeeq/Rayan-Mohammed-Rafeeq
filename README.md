@@ -1,7 +1,7 @@
 <!-- Futuristic Header -->
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWUwbHF6NWNqZGdzMHhhbGd3bGIyengyd21sY204MWw4bnplbGpjNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" width="100%" height="300px">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&color=00FFFF&center=true&vCenter=true&width=800&lines=👋+Hey+there!+I'm+Rayan+Mohammed+Rafeeq;Creating+the+Future+with+Code+💫" alt="Typing SVG">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=4000&pause=1000&color=15e815&center=true&vCenter=true&width=800&lines=👋+Hey+there!+I'm+Rayan+Mohammed+Rafeeq;Creating+the+Future+with+Code+💫" alt="Typing SVG">
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
@@ -10,8 +10,6 @@
 <h3 align="center">
   <img src="https://media.tenor.com/jxRkkcVsEhEAAAAj/frogverbal-giphy.gif" width="40%" height="200px">
 </h3>
-
-
 
 <p align="center">
   🧠 <b>AI & ML Enthusiast</b> | 🎓 Student at <b>NMIT, Bangalore (2027)</b>
@@ -37,6 +35,10 @@
     <td>To become an innovative AI/ML Engineer creating tools that matter</td>
   </tr>
 </table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rayan-Mohammed-Rafeeq&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=000000&title_color=00FFF6&icon_color=00FFFF&text_color=E0FFFF" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rayan-Mohammed-Rafeeq&theme=highcontrast&hide_border=true" height="165"/>
+</p>
 
 </div>
 
@@ -74,13 +76,9 @@
   </table>
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
-### 📊 GitHub Analytics (Animated)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rayan-Mohammed-Rafeeq&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=000000&title_color=00FFF6&icon_color=00FFFF&text_color=E0FFFF" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rayan-Mohammed-Rafeeq&theme=highcontrast&hide_border=true" height="165"/>
-</p>
+
+
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
