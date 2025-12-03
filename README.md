@@ -36,9 +36,21 @@
   </tr>
 </table>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rayan-Mohammed-Rafeeq&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=000000&title_color=00FFF6&icon_color=00FFFF&text_color=E0FFFF" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rayan-Mohammed-Rafeeq&theme=highcontrast&hide_border=true" height="165"/>
+
+  <!-- GitHub Stats Card -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Rayan-Mohammed-Rafeeq&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=000000&title_color=00FFF6&icon_color=00FFFF&text_color=E0FFFF" 
+    height="165"
+  />
+
+  <!-- GitHub Streak Card -->
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Rayan-Mohammed-Rafeeq&theme=vision-friendly-dark&hide_border=true&background=000000&stroke=00FFF6&ring=00FFF6&fire=00FFFF&currStreakLabel=00FFF6" 
+    height="165"
+  />
+
 </p>
+
 
 </div>
 
