@@ -40,12 +40,12 @@
   <!-- GitHub Stats -->
   <img 
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rayan-Mohammed-Rafeeq&show_icons=true&theme=vision-friendly-dark&hide_border=true" 
-    height="165" 
+    height="165"
   />
 
   <!-- GitHub Streak -->
   <img 
-    src="https://streak-stats.demolab.com?user=Rayan-Mohammed-Rafeeq&theme=vision-friendly-dark&hide_border=true" 
+    src="https://streak-stats.demolab.com?user=Rayan-Mohammed-Rafeeq&theme=highcontrast&hide_border=true" 
     height="165"
   />
 
