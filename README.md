@@ -37,19 +37,20 @@
 </table>
 <p align="center">
 
-  <!-- GitHub Stats Card -->
+  <!-- GitHub Stats -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Rayan-Mohammed-Rafeeq&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=000000&title_color=00FFF6&icon_color=00FFFF&text_color=E0FFFF" 
-    height="165"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rayan-Mohammed-Rafeeq&show_icons=true&theme=vision-friendly-dark&hide_border=true" 
+    height="165" 
   />
 
-  <!-- GitHub Streak Card -->
+  <!-- GitHub Streak -->
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Rayan-Mohammed-Rafeeq&theme=vision-friendly-dark&hide_border=true&background=000000&stroke=00FFF6&ring=00FFF6&fire=00FFFF&currStreakLabel=00FFF6" 
+    src="https://streak-stats.demolab.com?user=Rayan-Mohammed-Rafeeq&theme=vision-friendly-dark&hide_border=true" 
     height="165"
   />
 
 </p>
+
 
 
 </div>
