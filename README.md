@@ -43,12 +43,6 @@
     height="165"
   />
 
-  <!-- GitHub Streak -->
-  <img 
-    src="https://streak-stats.demolab.com?user=Rayan-Mohammed-Rafeeq&theme=highcontrast&hide_border=true" 
-    height="165"
-  />
-
 </p>
 
 
