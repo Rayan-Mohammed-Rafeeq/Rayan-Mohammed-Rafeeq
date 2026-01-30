@@ -35,17 +35,6 @@
     <td>To become an innovative AI/ML Engineer creating tools that matter</td>
   </tr>
 </table>
-<p align="center">
-
-  <!-- GitHub Stats -->
-  <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rayan-Mohammed-Rafeeq&show_icons=true&theme=vision-friendly-dark&hide_border=true" 
-    height="165"
-  />
-
-</p>
-
-
 
 </div>
 
