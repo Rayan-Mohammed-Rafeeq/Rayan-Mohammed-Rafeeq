@@ -1,7 +1,7 @@
 <!-- Futuristic Header -->
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWUwbHF6NWNqZGdzMHhhbGd3bGIyengyd21sY204MWw4bnplbGpjNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" width="100%" height="300px">
- <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=1000&pause=5000&color=15e815&center=true&vCenter=true&width=800&lines=👋+Hey+there!+I'm+Rayan+Mohammed+Rafeeq" alt="Typing SVG">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=4000&pause=1000&color=15e815&center=true&vCenter=true&width=800&lines=👋+Hey+there!+I'm+Rayan+Mohammed+Rafeeq" alt="Typing SVG">
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
