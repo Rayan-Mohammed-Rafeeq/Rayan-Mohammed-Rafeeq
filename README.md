@@ -27,10 +27,10 @@
   <tr>
     <td align="left">🚀 <b>Projects</b></td>
     <td>
-      <b>Allied Edge</b> – Full-stack social platform (Spring Boot + React)<br>
+      <b>1] Allied Edge</b> – Full-stack social platform (Spring Boot + React)<br>
       🔗 <a href="https://allied-edge.vercel.app" target="_blank"><b>Live Demo</b></a>
       <br><br>
-      <b>Zyren</b> – Secure paste-sharing platform with auth, roles & expiry<br>
+      <b>2] Zyren</b> – Secure paste-sharing platform with auth, roles & expiry<br>
       🔗 <a href="https://zyren.netlify.app" target="_blank"><b>Live Demo</b></a>
     </td>
   </tr>
