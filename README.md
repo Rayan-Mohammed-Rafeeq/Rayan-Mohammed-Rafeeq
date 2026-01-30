@@ -25,8 +25,14 @@
     <td>Backend Development, Full-Stack Systems, Scalable Web Apps</td>
   </tr>
   <tr>
-    <td align="left">🚀 <b>Current Project</b></td>
-    <td><b>Allied Edge</b> – A full-stack social platform using Spring Boot & React</td>
+    <td align="left">🚀 <b>Projects</b></td>
+    <td>
+      <b>Allied Edge</b> – Full-stack social platform (Spring Boot + React)<br>
+      🔗 <a href="https://alliededge.live" target="_blank"><b>Live Demo</b></a>
+      <br><br>
+      <b>Zyren</b> – Secure paste-sharing platform with auth, roles & expiry<br>
+      🔗 <a href="https://zyren.netlify.app" target="_blank"><b>Live Demo</b></a>
+    </td>
   </tr>
   <tr>
     <td align="left">🎯 <b>Career Goal</b></td>
