@@ -8,31 +8,33 @@
 
 <!-- ABOUT ME SECTION -->
 <h3 align="center">
-  <img src="https://media.tenor.com/jxRkkcVsEhEAAAAj/frogverbal-giphy.gif" width="40%" height="200px">
+  <img src="https://media.tenor.com/jxRkkcVsEhEAAAAj/frogverbal-giphy.gif" width="35%" height="180px">
 </h3>
 
 <p align="center">
-  🧠 <b>AI & ML Enthusiast</b> | 🎓 Student at <b>NMIT, Bangalore (2027)</b>
+  👨‍💻 <b>Software Developer & Full-Stack Enthusiast</b> <br>
+  🎓 B.E. in Artificial Intelligence & Machine Learning <br>
+  <b>Nitte Meenakshi Institute of Technology, Bangalore</b> (2027)
 </p>
 
 <div align="center">
 
 <table>
   <tr>
-    <td align="left">⚙️ <b>Skilled in:</b></td>
-    <td>Python, Java, C++, Kotlin, Web Dev</td>
+    <td align="left">⚙️ <b>Tech Stack</b></td>
+    <td>Java, SQL, Python, HTML, CSS, JavaScript</td>
   </tr>
   <tr>
-    <td align="left">🚀 <b>Building:</b></td>
-    <td>Allied Edge Bot – an AI assistant for students</td>
+    <td align="left">🧩 <b>Interests</b></td>
+    <td>Backend Development, Full-Stack Systems, Scalable Web Apps</td>
   </tr>
   <tr>
-    <td align="left">🏆 <b>Hackathon Project:</b></td>
-    <td>MindEase – AI-powered mental health app</td>
+    <td align="left">🚀 <b>Current Project</b></td>
+    <td><b>Allied Edge</b> – A full-stack social platform using Spring Boot & React</td>
   </tr>
   <tr>
-    <td align="left">🎯 <b>Goal:</b></td>
-    <td>To become an innovative AI/ML Engineer creating tools that matter</td>
+    <td align="left">🎯 <b>Career Goal</b></td>
+    <td>To become a strong Software Engineer building reliable, real-world systems</td>
   </tr>
 </table>
 
