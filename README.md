@@ -21,10 +21,6 @@
 
 <table>
   <tr>
-    <td align="left">⚙️ <b>Tech Stack</b></td>
-    <td>Java, SQL, Python, HTML, CSS, JavaScript</td>
-  </tr>
-  <tr>
     <td align="left">🧩 <b>Interests</b></td>
     <td>Backend Development, Full-Stack Systems, Scalable Web Apps</td>
   </tr>
