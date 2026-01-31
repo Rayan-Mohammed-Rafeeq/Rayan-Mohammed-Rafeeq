@@ -1,3 +1,8 @@
+<img 
+  src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff88,100:00cc66&height=2&section=footer" 
+  width="100%"
+/>
+
 <!-- Futuristic Header -->
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWUwbHF6NWNqZGdzMHhhbGd3bGIyengyd21sY204MWw4bnplbGpjNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" width="100%" height="300px">
@@ -116,3 +121,8 @@
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExczM1ZDRramU2b2s4eHY0NTV3a3Mwb3Rod2h1MHZrbThsZ3o0bHJjZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q8apqDkk7CeUB3gfh4/giphy.gif" alt="Coding GIF" width="60%" height="100px"/>
 </p>
+<img 
+  src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff88,100:00cc66&height=2&section=footer" 
+  width="100%"
+/>
+
