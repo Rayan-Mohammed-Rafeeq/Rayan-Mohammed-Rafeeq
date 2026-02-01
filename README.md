@@ -15,9 +15,40 @@
 />
 
 
+
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35" />
+  Tech Stack
+</h1>
+      
+   <p align="center">
+          <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java badge" />
+          <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot badge" />
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python badge" />
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 badge" />
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 badge" />
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript badge" />
+          <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React badge" />
+          <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git badge" />
+          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge" />
+    </p>
+
+  </td>
+      
+ 
+  </tr>
+  </table>
+</div>
+
+
+<img 
+  src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff88,100:00cc66&height=2&section=footer" 
+  width="100%"
+/>
+
 <!-- ABOUT ME SECTION -->
 <h3 align="center">
-  <img src="https://media.tenor.com/jxRkkcVsEhEAAAAj/frogverbal-giphy.gif" width="35%" height="180px">
+  <img src="https://media.tenor.com/jxRkkcVsEhEAAAAj/frogverbal-giphy.gif" width="35%" height="100px">
 </h3>
 
 <p align="center">
@@ -53,50 +84,6 @@
 
 
 
-
-<img 
-  src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff88,100:00cc66&height=2&section=footer" 
-  width="100%"
-/>
-
-
-
-<h1 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35" />
-  Tech Stack
-</h1>
-
-
-
-
-
-
-
-
-        
-   <p align="center">
-          <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java badge" />
-          <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot badge" />
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python badge" />
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 badge" />
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 badge" />
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript badge" />
-          <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React badge" />
-          <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git badge" />
-          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge" />
-    </p>
-
-  </td>
-      
- 
-  </tr>
-  </table>
-</div>
-
-
-
-
-
 <img 
   src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff88,100:00cc66&height=2&section=footer" 
   width="100%"
@@ -119,14 +106,3 @@
   src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff88,100:00cc66&height=2&section=footer" 
   width="100%"
 />
-
-
-
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExczM1ZDRramU2b2s4eHY0NTV3a3Mwb3Rod2h1MHZrbThsZ3o0bHJjZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q8apqDkk7CeUB3gfh4/giphy.gif" alt="Coding GIF" width="60%" height="100px"/>
-</p>
-<img 
-  src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff88,100:00cc66&height=2&section=footer" 
-  width="100%"
-/>
-
