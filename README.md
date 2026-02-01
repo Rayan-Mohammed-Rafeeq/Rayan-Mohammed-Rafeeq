@@ -61,14 +61,18 @@
 
 
 
-<div align="center">
-  <table style="width: 100%; border: none;">
-    <tr>
-  <td style="width: 50%; vertical-align: top; border: none; padding-right: 15px;">
-        
-   <p align="center">
-           <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3lqbDRsaXg4ZTgwNjBoMGtvNXFzcHQyZHNzbHB6YnJtdmV4b3pjeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qNHyaJzOmLNwGWk7Zf/giphy.gif"  width="20%" height="80px"/>
-   </p>
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" />
+  Tech Stack
+</h2>
+
+
+
+
+
+
+
+
         
    <p align="center">
           <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java badge" />
