@@ -1,7 +1,7 @@
-<img 
-  src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff88,100:00cc66&height=2&section=footer" 
-  width="100%"
-/>
+<img src="https://img.shields.io/badge/- -00ff88?style=flat" width="100%" height="2"/>
+
+
+
 
 <!-- Futuristic Header -->
 <p align="center">
@@ -9,10 +9,8 @@
  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=4000&pause=1000&color=15e815&center=true&vCenter=true&width=800&lines=👋+Hey+there!+I'm+Rayan+Mohammed+Rafeeq" alt="Typing SVG">
 </p>
 
-<img 
-  src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff88,100:00cc66&height=2&section=footer" 
-  width="100%"
-/>
+<img src="https://img.shields.io/badge/- -00ff88?style=flat" width="100%" height="2"/>
+
 
 
 
@@ -41,10 +39,8 @@
 </div>
 
 
-<img 
-  src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff88,100:00cc66&height=2&section=footer" 
-  width="100%"
-/>
+<img src="https://img.shields.io/badge/- -00ff88?style=flat" width="100%" height="2"/>
+
 
 <!-- ABOUT ME SECTION -->
 <h3 align="center">
@@ -84,10 +80,8 @@
 
 
 
-<img 
-  src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff88,100:00cc66&height=2&section=footer" 
-  width="100%"
-/>
+<img src="https://img.shields.io/badge/- -00ff88?style=flat" width="100%" height="2"/>
+
 
 
 
@@ -102,7 +96,5 @@
 
 
 <!-- Animated Divider -->
-<img 
-  src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff88,100:00cc66&height=2&section=footer" 
-  width="100%"
-/>
+<img src="https://img.shields.io/badge/- -00ff88?style=flat" width="100%" height="2"/>
+
