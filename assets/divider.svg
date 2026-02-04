@@ -1,0 +1,9 @@
+svg xmlns=httpwww.w3.org2000svg width=100% height=2 viewBox=0 0 100 2 preserveAspectRatio=none
+  defs
+    linearGradient id=g
+      stop offset=0% stop-color=#00ff88
+      stop offset=100% stop-color=#00bfff
+    linearGradient
+  defs
+  rect width=100 height=2 fill=url(#g)
+svg
