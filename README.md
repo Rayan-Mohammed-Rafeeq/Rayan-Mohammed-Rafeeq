@@ -79,7 +79,7 @@
 • Architected backend using Spring Boot with JWT-based authentication  
 • Designed modular REST APIs for user interaction & content flow  
 • Integrated React frontend with secure API communication  
-🔗 <a href="https://alliededgeapp" target="_blank"><b>Live Demo</b></a>
+🔗 <a href="https://alliededge.app" target="_blank"><b>Live Demo</b></a>
 
 <br><br>
 
