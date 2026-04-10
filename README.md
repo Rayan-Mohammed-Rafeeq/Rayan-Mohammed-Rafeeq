@@ -48,10 +48,9 @@
 </h3>
 
 <p align="center">
-  👨‍💻 <b>Software Developer focused on Backend & Scalable Systems</b> <br>
-  🎓 B.E. in Artificial Intelligence & Machine Learning <br>
-  <b>Nitte Meenakshi Institute of Technology, Bangalore</b> (2027)
+  🔗 <a href="https://rayanbuilds.me" target="_blank"><b>Portfolio</b></a>
 </p>
+
 
 <div align="center">
 
@@ -90,19 +89,6 @@
 • Focused on minimal and efficient backend design  
 🔗 <a href="https://zyren.netlify.app" target="_blank"><b>Live Demo</b></a>
 
-  </tr>
-
-  <tr>
-    <td align="left">🧠 <b>Core Strength</b></td>
-    <td>Backend Development • API Design • System Architecture</td>
-  </tr>
-
-  <tr>
-    <td align="left">🎯 <b>Career Direction</b></td>
-    <td>
-      Targeting Software Engineering roles where I can design and build
-      reliable, real-world systems at scale.
-    </td>
   </tr>
 </table>
 
