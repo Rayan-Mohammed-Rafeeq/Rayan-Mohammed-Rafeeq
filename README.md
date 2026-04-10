@@ -48,7 +48,7 @@
 </h3>
 
 <p align="center">
-  👨‍💻 <b>Software Developer & Full-Stack Enthusiast</b> <br>
+  👨‍💻 <b>Software Developer focused on Backend & Scalable Systems</b> <br>
   🎓 B.E. in Artificial Intelligence & Machine Learning <br>
   <b>Nitte Meenakshi Institute of Technology, Bangalore</b> (2027)
 </p>
@@ -57,22 +57,52 @@
 
 <table>
   <tr>
-    <td align="left">🧩 <b>Interests</b></td>
-    <td>Backend Development, Full-Stack Systems, Scalable Web Apps</td>
-  </tr>
-  <tr>
-    <td align="left">🚀 <b>Projects</b></td>
+    <td align="left">⚙️ <b>What I Do</b></td>
     <td>
-      <b>1] Allied Edge</b> – Full-stack social platform (Spring Boot + React)<br>
-      🔗 <a href="https://allied-edge.vercel.app" target="_blank"><b>Live Demo</b></a>
-      <br><br>
-      <b>2] Zyren</b> – Secure paste-sharing platform with auth, roles & expiry<br>
-      🔗 <a href="https://zyren.netlify.app" target="_blank"><b>Live Demo</b></a>
+      Build backend-heavy, production-style applications with clean architecture,
+      secure APIs, and scalable system design.
     </td>
   </tr>
+
   <tr>
-    <td align="left">🎯 <b>Career Goal</b></td>
-    <td>To become a strong Software Engineer building reliable, real-world systems</td>
+    <td align="left">🚀 <b>Highlighted Work</b></td>
+    <td>
+
+<b>Fintrix</b> — Finance Management Platform (Multi-Tenant System)  
+• Designed workspace-based multi-tenant architecture for isolated user environments  
+• Implemented JWT authentication & role-based access control  
+• Built scalable backend APIs for managing financial data securely  
+🔗 <a href="https://fintrix.alliededge.app/" target="_blank"><b>Live Demo</b></a>
+
+<br><br>
+
+<b>Allied Edge</b> — Full-Stack Social Platform  
+• Architected backend using Spring Boot with JWT-based authentication  
+• Designed modular REST APIs for user interaction & content flow  
+• Integrated React frontend with secure API communication  
+🔗 <a href="https://alliededgeapp" target="_blank"><b>Live Demo</b></a>
+
+<br><br>
+
+<b>Zyren</b> — Secure Paste Sharing Platform  
+• Built role-based access system with controlled visibility  
+• Implemented paste expiry & secure content handling  
+• Focused on minimal and efficient backend design  
+🔗 <a href="https://zyren.netlify.app" target="_blank"><b>Live Demo</b></a>
+
+  </tr>
+
+  <tr>
+    <td align="left">🧠 <b>Core Strength</b></td>
+    <td>Backend Development • API Design • System Architecture</td>
+  </tr>
+
+  <tr>
+    <td align="left">🎯 <b>Career Direction</b></td>
+    <td>
+      Targeting Software Engineering roles where I can design and build
+      reliable, real-world systems at scale.
+    </td>
   </tr>
 </table>
 
