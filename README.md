@@ -64,7 +64,7 @@
   </tr>
 
   <tr>
-    <td align="left"><b>Highlighted Work</b></td>
+    <td align="left">🚀  <b>Highlighted Work</b></td>
     <td>
 
 <b>Fintrix</b> — Finance Management Platform (Multi-Tenant System)  
