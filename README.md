@@ -64,7 +64,7 @@
   </tr>
 
   <tr>
-    <td align="left">🚀  <b>Highlighted Work</b></td>
+    <td align="left">🚀 <b>Highlighted Work</b></td>
     <td>
 
 <b>Fintrix</b> — Finance Management Platform (Multi-Tenant System)  
@@ -80,6 +80,14 @@
 • Designed modular REST APIs for user interaction & content flow  
 • Integrated React frontend with secure API communication  
 🔗 <a href="https://alliededge.app" target="_blank"><b>Live Demo</b></a>
+
+<br><br>
+
+<b>CRA</b> — AI-Powered Code Review Agent  
+• Built a modular code review service combining deterministic static analysis with optional LLM-powered suggestions  
+• Developed versioned FastAPI endpoints with structured issue ranking across security, style, and performance categories  
+• Integrated Flake8, Bandit, prompt compression, offline analysis, and a React + Vite frontend  
+🔗 <a href="https://coderagent.vercel.app/" target="_blank"><b>Live Demo</b></a>
 
 <br><br>
 
