@@ -55,13 +55,6 @@
 <div align="center">
 
 <table>
-  <tr>
-    <td align="left">⚙️ <b>What I Do</b></td>
-    <td>
-      Build backend-heavy, production-style applications with clean architecture,
-      secure APIs, and scalable system design.
-    </td>
-  </tr>
 
   <tr>
     <td align="left">🚀 <b>Highlighted Work</b></td>
