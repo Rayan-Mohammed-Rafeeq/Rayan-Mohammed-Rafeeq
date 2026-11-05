@@ -48,14 +48,6 @@
 
 <br><br>
 
-<b>CRA</b> — AI-Powered Code Review Agent  
-• Built a modular code review service combining deterministic static analysis with optional LLM-powered suggestions  
-• Developed versioned FastAPI endpoints with structured issue ranking across security, style, and performance categories  
-• Integrated Flake8, Bandit, prompt compression, offline analysis, and a React + Vite frontend  
-🔗 <a href="https://coderagent.vercel.app/" target="_blank"><b>Live Demo</b></a>
-
-<br><br>
-
 <b>Zyren</b> — Secure Paste Sharing Platform  
 • Built role-based access system with controlled visibility  
 • Implemented paste expiry & secure content handling  
